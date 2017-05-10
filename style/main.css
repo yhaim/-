@@ -192,15 +192,16 @@ footer{
 	text-align:center;
 }
 .share-group{
-	display:block;
-	width:1080px;
+	padding:20px;
 	margin:0 auto;
-	padding-top:40px;
+	padding-top:35px;
 	}
 .share-group li{
 	list-style:none;
 	display:inline-block;
 	margin:10px ;
+	text-align:center;
+	font-size:17px;
 	}
 .copy{
 	padding:20px;
